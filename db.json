@@ -1,0 +1,56 @@
+{
+  "heroes": [
+    {
+      "id": "HeroAslaug",
+      "name": "ash capsup",
+      "description": "warrior queen"
+    },
+    {
+      "id": "HeroBjorn",
+      "name": "chico percebe",
+      "description": "king of 9th century Sweden"
+    },
+    {
+      "id": "HeroIvar",
+      "name": "carrerin",
+      "description": "commander of the Great Heathen Army"
+    },
+    {
+      "id": "HeroLagertha",
+      "name": "Lagertha the Shieldmaiden",
+      "description": "aka Hlaðgerðr"
+    },
+    {
+      "id": "HeroRagnar",
+      "name": "Ragnar Lothbrok",
+      "description": "aka Ragnar Sigurdsson"
+    },
+    {
+      "id": "HeroThora",
+      "name": "Thora Town-hart",
+      "description": "daughter of Earl Herrauðr of Götaland"
+    }
+  ],
+  "villains": [
+    {
+      "id": "VillainMadelyn",
+      "name": "Elementor",
+      "description": "ELEMENTORRRRRRRR!!!!!!!!!!!!!!!!!"
+    },
+    {
+      "id": "VillainHaley",
+      "name": "Mantarraya",
+      "description": "Señor se le cayó su billetera"
+    },
+    {
+      "id": "VillainElla",
+      "name": "Ella",
+      "description": "superpoder, ninguno."
+    },
+    {
+      "id": "VillainLandon",
+      "name": "Red",
+      "description": "Mandalorian mauler"
+    }
+  ]
+}
